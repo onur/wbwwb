@@ -53,7 +53,7 @@ var textStrings_EN = {
     
     // (bg_preload.png) Preload screen
     "playingTime"        : "oynama süresi: 5 dakika." ,
-    "warning"            : "uyarı: oynayacağınız oyun\nzüppelik,\nedepsizlik ve\ntoplu katliam görüntüleri içerir.\nizleyicinin taktirine bırakılmıştır." ,
+    "warning"            : "uyarı: oynayacağınız oyun\nzüppelik, edepsizlik ve\ntoplu katliam görüntüleri içerir.\nizleyicinin taktirine bırakılmıştır." ,
     
     // (cam-instructions.png) Camera Instructions
     "pointAndClick"      : "SEÇ VE TIKLA" ,
